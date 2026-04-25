@@ -1,1 +1,1 @@
-# AiDump
+ - What to learn first in Ai
