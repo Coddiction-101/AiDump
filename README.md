@@ -21,3 +21,4 @@
 
 - The ML Types
 - The Nearest  Neighbor Classifier
+- Regression
