@@ -2,3 +2,4 @@
 
 - How should we define AI
 - Related Fields
+- Philosohpy of AI
