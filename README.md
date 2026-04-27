@@ -14,3 +14,4 @@
 ## CH03 Real World AI
 
 - Odds & Probability
+- The Bayes Rule
