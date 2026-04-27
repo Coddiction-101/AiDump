@@ -4,4 +4,4 @@
 - Related Fields
 - Philosohpy of AI
 
-## CH02 
+## CH02 AI Problem Solving
