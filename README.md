@@ -20,3 +20,4 @@
 ## CH04 Machine Learning
 
 - The ML Types
+- The Nearest  Neighbor Classifier
