@@ -15,3 +15,4 @@
 
 - Odds & Probability
 - The Bayes Rule
+- Naive Bayes Classification
