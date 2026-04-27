@@ -12,3 +12,5 @@
 - Search and Games
 
 ## CH03 Real World AI
+
+- Odds & Probability
