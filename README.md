@@ -19,3 +19,4 @@
 
 ## CH04 Machine Learning
 
+- The ML Types
