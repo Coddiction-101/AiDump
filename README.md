@@ -1,1 +1,3 @@
-#### What is AI
+## What is AI
+
+- How should we define AI
