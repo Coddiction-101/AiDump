@@ -1,1 +1,1 @@
- ### First In AI
+- What is Smart Machine
