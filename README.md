@@ -9,3 +9,4 @@
 ## CH02 AI Problem Solving
 - Search & PS
 - Solving Problem with AI
+- Search and Games
