@@ -16,3 +16,6 @@
 - Odds & Probability
 - The Bayes Rule
 - Naive Bayes Classification
+
+## CH04 Machine Learning
+
