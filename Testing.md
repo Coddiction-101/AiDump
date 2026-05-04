@@ -13,7 +13,7 @@ Try answering **without looking above**:
 
 4. “Pay-as-you-go” ka kya matlab hai? - **Pay jitna tumne use kiya bas**
 5. Traditional vs Cloud me ek difference batao
-   
+
 - Traditional mei crash risk jyada hota tha
 - Limited Access hota tha cuz ya to wo office server hoga ya limited access
 - Storage Issues
