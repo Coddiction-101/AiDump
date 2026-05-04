@@ -7,3 +7,5 @@
 - Understanding Cloud Deployment Models
 - Virtualization in the Cloud
 - Developing and Deploying Software in the Cloud
+- Introduction to Data Management and Security in the Cloud
+
