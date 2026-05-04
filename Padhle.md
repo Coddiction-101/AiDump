@@ -40,7 +40,8 @@ Try answering **without looking above**:
 ## 🔹 Level 3: Real Thinking (Interview Level 🔥)
 
 11. Agar tumhe kisi non-tech insaan ko cloud samjhana ho, kaise samjhaoge? : **Cloud is a system jaha ek powerful computer ko rent pe lekar computing services use kr sakte ho internet ke through**
-12. Cloud use karne ka ek disadvantage batao
+
+12. Cloud use karne ka ek disadvantage batao : **Mein nhi bataunga**
 
 13. Agar tum ek app bana rahe ho jo viral ho sakta hai, cloud kyu best choice hai?
 
