@@ -28,7 +28,7 @@ Try answering **without looking above**:
 
 6. Agar ek startup hai jiska traffic kabhi low kabhi high hota hai, wo cloud kyu use karega? - **Wo Traffic to manage karne ke liye cloud use karega like resource pooling and elasticity like agar traffic low hai to resource ko badha dega agar high hai to kam kar dega** I think its correct 
 
-7. Agar internet band ho jaye toh cloud ka kya impact hoga?
+7. Agar internet band ho jaye toh cloud ka kya impact hoga? - **Agar Internet band ho jaye to bhi you can access the data on cloud,  mean data cloud pe safe rahega wo loss nhi hoga, but still you need internet to access it.**
 
 8. Resource pooling ka simple example do
 
