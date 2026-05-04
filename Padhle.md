@@ -4,7 +4,7 @@
 
 Try answering **without looking above**:
 
-1. Cloud computing kya hai? (1–2 lines) : **Cloud Computing is a concept to using a computing resouces ( Software, Data, Server) Jo ki pay as you go basis pe kaaam karta hai**
+1. Cloud computing kya hai? (1–2 lines) : **Cloud Computing is a concept to using a computing resouces through the internet ( Software, Data, Server) Jo ki pay as you go basis pe kaaam karta hai**
 
 2. 5 characteristics ke naam batao
 - On-Demand Self-Service
@@ -13,7 +13,7 @@ Try answering **without looking above**:
 - Rapid Elasticity
 - Measured Service
   
-3. Cloud ka ek real-life example do - **Using someone powerful computing on rent without headache of managing software, server and data. ex: Netflix, Gmail**
+3. Cloud ka ek real-life example do - **ex: Netflix, Gmail**
 
 4. “Pay-as-you-go” ka kya matlab hai? - **Pay jitna tumne use kiya bas**
 5. Traditional vs Cloud me ek difference batao
