@@ -7,6 +7,7 @@ Try answering **without looking above**:
 1. Cloud computing kya hai? (1–2 lines) : **Using power computer on rent by paying as you use or a service where you can use a power computer by paying a amount as much you use.**
 
 2. 5 characteristics ke naam batao
+- OBRRM - Broad Access, Resource Pooling, Rapid Elasticity, Measured Service
 3. Cloud ka ek real-life example do
 4. “Pay-as-you-go” ka kya matlab hai?
 5. Traditional vs Cloud me ek difference batao
