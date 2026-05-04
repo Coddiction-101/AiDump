@@ -4,7 +4,7 @@
 
 Try answering **without looking above**:
 
-1. Cloud computing kya hai? (1–2 lines) : **Using power computer on rent by paying as you use or a service where you can use a power computer by paying a amount as much you use.**
+1. Cloud computing kya hai? (1–2 lines) : **Using someone's powerful computer through the internet without managing software, server, and use it on rent ( pay as you go)
 
 2. 5 characteristics ke naam batao
 - On-Demand Self-Service
