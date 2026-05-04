@@ -30,7 +30,7 @@ Try answering **without looking above**:
 
 7. Agar internet band ho jaye toh cloud ka kya impact hoga? - **Agar Internet band ho jaye to bhi you can access the data on cloud,  mean data cloud pe safe rahega wo loss nhi hoga, but still you need internet to access it.**
 
-8. Resource pooling ka simple example do
+8. Resource pooling ka simple example do - **Mean multiple users ek hi system ko use kr sakte hai ek distributed way mei**
 
 9. Rapid elasticity aur scalability me kya relation hai?
 
