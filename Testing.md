@@ -26,7 +26,7 @@ Try answering **without looking above**:
 
 ## 🔹 Level 2: Understanding Check (Thoda sochna padega)
 
-6. Agar ek startup hai jiska traffic kabhi low kabhi high hota hai, wo cloud kyu use karega?
+6. Agar ek startup hai jiska traffic kabhi low kabhi high hota hai, wo cloud kyu use karega? - ""Wo Traffic to manage karne ke liye cloud use karega like resource pooling and elasticity like agar traffic low hai to resource ko badha dega agar high hai to kam kar dega** I think its correct 
 
 7. Agar internet band ho jaye toh cloud ka kya impact hoga?
 
