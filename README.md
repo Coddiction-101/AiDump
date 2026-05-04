@@ -5,3 +5,4 @@
 - Introduction to CC
 - Understanding CC Services
 - Understanding Cloud Deployment Models
+- Virtualization in the Cloud
