@@ -33,7 +33,7 @@ Try answering **without looking above**:
 8. Resource pooling ka simple example do - **Mean multiple users ek hi system ko use kr sakte hai ek distributed way mei**
 
 9. Rapid elasticity aur scalability me kya relation hai? - **Rapid Elasticity mei demand based pe resource ko badha-ghata sakte hai auto. In a short-term. Whether Scalibility Do it for the long term.**
-10. Cloud maintenance kaun karta hai? Aur iska benefit kya hai?
+10. Cloud maintenance kaun karta hai? Aur iska benefit kya hai? : **It is maintained by thier providers  like AWS, Azure etc, and its benefits are you dont have to manage the software, data, or storage just you it everything is managed by their providers.**
 
 ---
 
