@@ -9,7 +9,7 @@ Try answering **without looking above**:
 2. 5 characteristics ke naam batao
 - OBRRM - **On-Demand Access, Resource Pooling, Rapid Elasticity, Measured Service**
   
-3. Cloud ka ek real-life example do - **Using someone powerful computing on rent without headache of managing software, server and data.**
+3. Cloud ka ek real-life example do - **Using someone powerful computing on rent without headache of managing software, server and data. ex: Netflix, Gmail**
 
 4. “Pay-as-you-go” ka kya matlab hai? - **Pay jitna tumne use kiya bas**
 5. Traditional vs Cloud me ek difference batao
