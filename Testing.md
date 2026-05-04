@@ -17,7 +17,7 @@ Try answering **without looking above**:
 - Traditional mei crash risk jyada hota tha
 - Limited Access hota tha cuz ya to wo office server hoga ya limited access
 - Storage Issues
-
+---------------------------------------------------------------
 - Cloud mei Crash Risk kam hota hai
 - Data or Resources without the fear of crash access or deplor or upload kar sakte hai
 - You any access it any smart devices(laptop, PC, mobile) From anywhere, anytime)
