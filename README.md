@@ -51,9 +51,3 @@
 * Identify roles, responsibilities, and required skill sets
 
 * Explore learning resources and career opportunities in cloud computing
-
----
-
-### Small improvement tip
-
-You grouped your syllabus nicely. If you want it even cleaner, you can align each bullet group directly under its matching module—but this version already looks structured and professional for notes or GitHub.
