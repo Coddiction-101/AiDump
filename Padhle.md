@@ -47,6 +47,6 @@ Try answering **without looking above**:
 
 14. Local server kab better ho sakta hai cloud se? - **When you care about your data, and make it private or confidential**
 
-15. “Cloud is just someone else’s computer” — is statement ko explain karo
+15. “Cloud is just someone else’s computer” — is statement ko explain karo : **Dekho, Aesa hai, You are using someone's powerful computing without care about its software, storage, data etc to manager, everthing is handles by them you  just have to use it pay them and leave.**
 
 ---
