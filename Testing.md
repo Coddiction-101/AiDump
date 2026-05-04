@@ -32,7 +32,7 @@ Try answering **without looking above**:
 
 8. Resource pooling ka simple example do - **Mean multiple users ek hi system ko use kr sakte hai ek distributed way mei**
 
-9. Rapid elasticity aur scalability me kya relation hai? - **Rapid Elasticity mei demand based pe resource ko badha-ghata sakte hai. In a short-term. Whether Scalibility Do it for the long term.**
+9. Rapid elasticity aur scalability me kya relation hai? - **Rapid Elasticity mei demand based pe resource ko badha-ghata sakte hai auto. In a short-term. Whether Scalibility Do it for the long term.**
 10. Cloud maintenance kaun karta hai? Aur iska benefit kya hai?
 
 ---
