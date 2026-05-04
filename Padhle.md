@@ -45,7 +45,7 @@ Try answering **without looking above**:
 
 13. Agar tum ek app bana rahe ho jo viral ho sakta hai, cloud kyu best choice hai? : **to manage the sudden traffic and use of the elasticity for a short term and swich to stability if required.**
 
-14. Local server kab better ho sakta hai cloud se?
+14. Local server kab better ho sakta hai cloud se? - **When you care about your data, and make it private or confidential**
 
 15. “Cloud is just someone else’s computer” — is statement ko explain karo
 
