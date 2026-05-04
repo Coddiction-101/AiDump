@@ -30,8 +30,7 @@ Try answering **without looking above**:
 
 7. Agar internet band ho jaye toh cloud ka kya impact hoga? - **Agar Internet band ho jaye to bhi you can access the data on cloud,  mean data cloud pe safe rahega wo loss nhi hoga, but still you need internet to access it.**
 
-8. Resource pooling ka simple example do - **Mean multiple users ek hi system ko use kr sakte hai ek distributed way mei**
-
+8. Resource pooling ka simple example do - **Ek hi cloud infrastructure multiple users ko serve karta hai ( resource ko aapas mei sharing karke)**
 9. Rapid elasticity aur scalability me kya relation hai? - **Rapid Elasticity mei demand based pe resource ko badha-ghata sakte hai auto. In a short-term. Whether Scalibility Do it for the long term.**
 10. Cloud maintenance kaun karta hai? Aur iska benefit kya hai? : **It is maintained by thier providers  like AWS, Azure etc, and its benefits are you dont have to manage the software, data, or storage just you it everything is managed by their providers.**
 
