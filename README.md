@@ -37,3 +37,4 @@
     - Unified Storage
     - Cloud Storage
 29. Explain Cloud File System
+30. What is CDMI (Cloud Data Management Interface)
