@@ -31,3 +31,4 @@
 23. OS Virtualization
 24. Storage Virtualization
 25. Network Virtualization
+26. Explain the Cloud Arc
