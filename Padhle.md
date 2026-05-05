@@ -1,3 +1,1 @@
-Cloud computing is the delivery of Computing Services Including - Storage, Servers, Software, Database, Networking, Analytics and Intelligence. Over the internet (The Cloud) To offer the faster Innovation, flexible resources, economies of scale.
-
-Imagine, you need electricity, So you don't build your own power plant, you pay a utility company exactly for what you use, when you need. Cloud Computing exactly works on the same principal. Instead of owning a servers, data centers, and entire infrastructure needed to run a software, you rented it from the provider, which already build a massive globally distributed intfrastructure you access it through the internet.
+ 
