@@ -8,4 +8,5 @@
 6. What is Utility Computing
 7. History of CC
 8. Write about the important of CC in the current era
-9. CC Characteristics
+9. ~~CC Characteristics~~
+10. Advantages and Disadvantages of CC
