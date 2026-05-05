@@ -31,7 +31,7 @@
 23. OS Virtualization
 24. Storage Virtualization
 25. Network Virtualization
-26. Explain the Cloud Arc
+26. Explain the Cloud Arc & Cloud Component
 27. Explain virtualization (Types and diagrams )
 28. What's Storage
     - Unified Storage
