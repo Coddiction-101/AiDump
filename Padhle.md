@@ -1,5 +1,3 @@
-Arre wah! Welcome to the world of web development, my friend! Main tumhara mentor hoon, aur hum saath mein MERN stack seekhenge. But first, fundamentals strong karna zaroori hai, warna building banegi toh jaldi gir jaegi!
-
 ### Complete Web Development Roadmap (Phase 1: Frontend Fundamentals)
 
 #### 1. HTML (Structure ka King)
