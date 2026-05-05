@@ -1,84 +1,63 @@
-Act as a strict academic + practical mentor for a BCA graduate preparing for MCA entrance and building strong technical fundamentals.
+Arre wah! Welcome to the world of web development, my friend! Main tumhara mentor hoon, aur hum saath mein MERN stack seekhenge. But first, fundamentals strong karna zaroori hai, warna building banegi toh jaldi gir jaegi!
 
-Your goal is to design a deep, structured revision and preparation plan that bridges the gap between BCA knowledge and MCA-level expectations.
+### Complete Web Development Roadmap (Phase 1: Frontend Fundamentals)
 
-Context:
+#### 1. HTML (Structure ka King)
+**Kyun zaroori hai?** HTML is like building ka foundation. Bina foundation ke building nahi ban sakti, na?
 
-- I have completed BCA
-- My fundamentals are weak/inconsistent
-- I understand concepts but struggle with recall and application
-- I want to revise everything properly before starting MCA
-- I am also learning Web Development alongside
+- Basic tags & structure
+- Semantic HTML (meaningful tags)
+- Forms & input elements
+- Media elements (images, videos)
+- Accessibility basics
 
-Now create a complete plan with the following structure:
+**Skills you'll gain:** Proper website structure creation, SEO-friendly pages, forms banane ki expertise
 
-1. Core Subjects Revision Plan
-   Cover these subjects in depth:
-   
-   - Programming (C/Java basics, logic building)
-   - Data Structures (arrays, stack, queue, linked list – basics)
-   - DBMS (SQL, normalization, joins)
-   - Operating System (process, memory, scheduling basics)
-   - Computer Networks (OSI model, HTTP/HTTPS, basics)
-   
-   For each subject:
-   
-   - Key topics to revise
-   - What level of depth is enough for MCA
-   - Common mistakes students make
+#### 2. CSS (Styling ka Sultan)
+**Kyun zaroori hai?** HTML is plain body, CSS is clothes and makeup. Bina CSS ke, website boring dikhega!
 
-2. 60–90 Day Revision Roadmap
-   
-   - Break into weekly targets
-   - Each week must include:
-     - Topics to revise
-     - Practice tasks
-     - Expected outcome
+- Selectors & specificity
+- Box model (margin, padding, border)
+- Flexbox layout
+- Grid layout
+- Responsive design (mobile-friendly)
+- Animations & transitions
+- Custom properties (variables)
 
-3. Daily Study System (2–5 hours)
-   
-   - Clear time split:
-     - Concept revision
-     - Practice (coding/questions)
-     - Recall/revision
-   - Include active recall and spaced repetition techniques
+**Skills you'll gain:** Beautiful designs, responsive layouts, professional-looking websites
 
-4. Anti-Forgetting + Anti-Freezing System
-   
-   - How to remember concepts long-term
-   - How to avoid blanking out in exams or coding
-   - Step-by-step recovery method when stuck
+#### 3. JavaScript (Logic ka Badshah)
+**Kyun zaroori hai?** This is where magic happens! Static website ko dynamic banata hai.
 
-5. Practice Strategy
-   
-   - What type of questions to solve
-   - How many questions per topic
-   - Mix of theory + coding
+- Variables & data types
+- Functions & scope
+- Arrays & objects
+- DOM manipulation
+- Event handling
+- Async JavaScript (promises, fetch API)
+- ES6+ features
 
-6. Web Development Parallel Plan
-   
-   - How to continue web dev without disturbing MCA prep
-   - Weekly balance strategy
-
-7. Self-Testing System
-   
-   - Weekly test structure
-   - How to evaluate yourself
-   - How to identify weak areas
-
-8. Final Output Goal
-   
-   - What I should be able to do confidently before MCA starts
-   - Skills + concepts checklist
-
-Make the plan practical, strict, and execution-focused. Avoid motivational fluff. Focus on clarity, repetition, and real understanding.
-
-⚡ Kaise use kare
-
-- Isko copy kar
-- Desktop pe ChatGPT ya koi AI tool me paste kar
-- Output ko follow kar as your main system
+**Skills you'll gain:** Interactive websites, API integration, dynamic content handling
 
 ---
 
-Agar tu chahe, main is prompt ka ready-made filled version (custom for you) bhi bana deta hoon — bina kisi extra effort ke tu directly start kar sake.
+### Learning Outcomes (Phase 1 ke baad tum kar paoge)
+- Professional-looking, responsive websites bana paoge
+- User interactions handle kar paoge
+- Third-party APIs integrate kar paoge
+- Basic animations add kar paoge
+- Real-world projects create kar paoge jo portfolio mein add kar sakte ho
+
+---
+
+### UNIQUE PROJECT IDEA: "Personal Knowledge Hub"
+Ek aisa platform jahan tum:
+- Notes save kar sakte ho (text, images, links)
+- Categories mein organize kar sakte ho
+- Search functionality add kar sakte ho
+- Dark/light mode toggle kar sakte ho
+- Local storage mein data store kar sakte ho
+
+Yeh real-world jaisa hai, portfolio mein impressive dikhega, aur saare concepts cover karega!
+
+---
