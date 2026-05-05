@@ -39,3 +39,4 @@
 29. Explain Cloud File System
 30. What is CDMI (Cloud Data Management Interface)
 31. Explain the Cloud Computing Reference Models
+32. Cloud Eco-system
