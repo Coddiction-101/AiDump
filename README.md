@@ -41,3 +41,4 @@
 31. Explain the Cloud Computing Reference Models
 32. Cloud Eco-system
 33. Explain various CC Security Challenges
+34. Explain DAS (Direct Attached Storage)
