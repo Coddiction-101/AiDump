@@ -28,3 +28,4 @@
 20. Cloud lifecycle model or Cloud Deployment lifecycle model
 21. What's Cloud Governance
 22. Server Virtualization
+23. OS Virtualization
