@@ -20,3 +20,5 @@
     - IaaS
     - MaaS
     - BaaS
+   
+16. Cloud Computing Models ( Just explain the public , private and hybrid cloud )
