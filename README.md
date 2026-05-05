@@ -24,3 +24,4 @@
 16. Cloud Computing Models ( Just explain the public , private and hybrid cloud )
 17. Explain the Cloud Federation
 18. Who is the Cloud Broker or Agent
+19. What is VM
