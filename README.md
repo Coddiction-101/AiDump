@@ -11,4 +11,4 @@
 9. ~~CC Characteristics~~
 10. Advantages and Disadvantages of CC
 11. Key Characteristics of CC ( Explain the Virtualization and SOA)
-12. What are the key stages in migrating to the cloud
+12. What are the key stages in migrating to the cloud ( Write about 3 stages -> Plan, Execute, Monitor )
