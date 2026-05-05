@@ -33,3 +33,4 @@
 25. Network Virtualization
 26. Explain the Cloud Arc
 27. Explain virtualization (Types and diagrams )
+28. What's Storage
