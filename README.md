@@ -35,3 +35,4 @@
 27. Explain virtualization (Types and diagrams )
 28. What's Storage
     - Unified Storage
+    - Cloud Storage
