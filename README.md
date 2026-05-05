@@ -29,3 +29,4 @@
 21. What's Cloud Governance
 22. Server Virtualization
 23. OS Virtualization
+24. Storage Virtualization
