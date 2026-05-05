@@ -4,7 +4,7 @@
 
 ## What you’ll learn
 
-* Define cloud computing and describe its key characteristics ☑️
+* Define cloud computing and describe its key characteristics 
 
 * Explain how local servers and the internet enable data sharing
 
