@@ -14,3 +14,4 @@
 12. What are the key stages in migrating to the cloud ( Write about 3 stages -> Plan, Execute, Monitor )
 13. Types of CC ( Public, Private, Hybrid, Community )
 14. Explain CC Infra
+15. Explain the major cloud service models
