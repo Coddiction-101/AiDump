@@ -20,7 +20,7 @@
     - IaaS
     - MaaS
     - BaaS
-
+    - Amazon Dynamo
     - Explain AWS
    
 16. Cloud Computing Models ( Just explain the public , private and hybrid cloud )
