@@ -5,3 +5,4 @@
 3. Explain the benefit of CC
 4. Name of the three basic clouds in CC
 5. What is Grid Computing
+6. What is Utility Computing
