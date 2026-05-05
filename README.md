@@ -25,3 +25,4 @@
 17. Explain the Cloud Federation
 18. Who is the Cloud Broker or Agent
 19. What is VM
+20. Cloud lifecycle model or Cloud Deployment lifecycle model
