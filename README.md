@@ -1,4 +1,4 @@
-<p>Digital Voting System</p>
+**<p>Digital Voting System</p>**
 
 # Presentation & Q&A Preparation Guide
 
