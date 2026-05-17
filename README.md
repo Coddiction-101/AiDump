@@ -8,3 +8,4 @@
 - [ ] Tracking Changes
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
+- [ ] Using Git Blame
