@@ -9,6 +9,8 @@
 - [x] Initialising Git Project
 - [x] Adding Files to VCS
   - [x] git add <File_Path>
+  - [x] git add .
+  
 - [x] Tracking Changes
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
