@@ -1,5 +1,4 @@
- # Git & Github Crash Course 
- 
+# G&GCCP1 
 - [x] Introduction to Version Control System (VCS)
 - [x] Overview of Git
 - [x] Installing Git
