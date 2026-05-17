@@ -10,13 +10,13 @@
 - [x] Adding Files to VCS
   - [x] git add <File_Path>
   - [x] git add .
-  
 - [x] Tracking Changes
 - [x] Removing Files from VCS
   - [x] git rm <File_Path>
 - [x] Understanding Commits
   - [x] Committing Files
   - [x] git commit -m "Initial Commit"
+- [ ] Staging area
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
 - [ ] Best Practices for Commit Messages
