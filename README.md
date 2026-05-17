@@ -19,7 +19,7 @@
 - [x] Staging area
 - [x] Logging Commit History
   - [x] git log
-  - [ ] git log --oneline
+  - [x] git log --oneline
 - [x] Using Git Blame
 - [ ] Best Practices for Commit Messages
 - [ ] Working with Branches
