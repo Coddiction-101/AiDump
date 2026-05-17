@@ -1,4 +1,4 @@
- # GnG Crash Course
+ # Git & Github Crash Course
  
 - [x] Introduction to Version Control System (VCS)
 - [x] Overview of Git
