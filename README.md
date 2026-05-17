@@ -21,7 +21,7 @@
   - [x] git log
   - [x] git log --oneline
 - [x] Using Git Blame
-- [ ] 
+- [ ] Reverting Back
 - [ ] Working with Branches
 - [ ] Stashing Changes
 - [ ] Managing Remote Repositories (GitHub)
