@@ -12,7 +12,7 @@
   - [x] git add .
   
 - [x] Tracking Changes
-- [ ] Removing Files from VCS
+- [x] Removing Files from VCS
   - [x] git rm <File_Path>
 - [x] Understanding Commits
   - [x] Committing Files
