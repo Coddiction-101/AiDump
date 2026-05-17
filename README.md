@@ -1,7 +1,7 @@
  # GnG Crash Course
  
 - [x] Introduction to Version Control System (VCS)
-- [ ] Overview of Git
+- [x] Overview of Git
 - [ ] Installing Git
 - [ ] Setting up Git
 - [ ] Basic Git Commands
