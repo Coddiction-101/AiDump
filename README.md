@@ -9,3 +9,6 @@
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
+- [ ] Best Practices for Commit Messages
+
+
