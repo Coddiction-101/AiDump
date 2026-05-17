@@ -13,7 +13,7 @@
   
 - [x] Tracking Changes
 - [ ] Removing Files from VCS
-  - [ ] git rm <File_Path>
+  - [x] git rm <File_Path>
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
