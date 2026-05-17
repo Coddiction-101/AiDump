@@ -3,7 +3,7 @@
 - [x] Introduction to Version Control System (VCS)
 - [x] Overview of Git
 - [x] Installing Git
-- [ ] Setting up Git
+- [x] Setting up Git
 - [ ] Basic Git Commands
 - [ ] Tracking Changes
 - [ ] Understanding Commits
