@@ -7,3 +7,4 @@
 - [ ] Basic Git Commands
 - [ ] Tracking Changes
 - [ ] Understanding Commits
+- [ ] Viewing Commit History
