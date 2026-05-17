@@ -16,7 +16,7 @@
   - [x] git rm <File_Path>
 - [x] Understanding Commits
   - [ ] Committing Files
-  - [ ] git commit -m "Initial Commit"
+  - [x] git commit -m "Initial Commit"
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
 - [ ] Best Practices for Commit Messages
