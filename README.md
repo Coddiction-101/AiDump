@@ -14,7 +14,7 @@
 - [x] Tracking Changes
 - [ ] Removing Files from VCS
   - [x] git rm <File_Path>
-- [ ] Understanding Commits
+- [x] Understanding Commits
   - [ ] Committing Files
   - [ ] git commit -m "Initial Commit"
 - [ ] Viewing Commit History
