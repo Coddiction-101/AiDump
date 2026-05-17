@@ -1,4 +1,4 @@
- # Git & Github Crash Course
+ # Git & Github Crash Course _pt-2_
  
 - [x] Introduction to Version Control System (VCS)
 - [x] Overview of Git
