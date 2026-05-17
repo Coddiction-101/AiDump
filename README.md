@@ -5,7 +5,7 @@
 - [x] Installing Git
 - [x] Setting up Git
 - [x] Basic Git Commands
-- [ ] Tracking Changes
+- [x] Tracking Changes
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
