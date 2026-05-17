@@ -12,6 +12,7 @@
 - [ ] Best Practices for Commit Messages
 - [ ] Working with Branches
 - [ ] Stashing Changes
+- [ ] Managing Remote Repositories (GitHub)
 
 
 
