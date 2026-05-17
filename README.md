@@ -17,7 +17,7 @@
   - [x] Committing Files
   - [x] git commit -m "Initial Commit"
 - [x] Staging area
-- [ ] Logging Commit History
+- [x] Logging Commit History
 - [ ] Using Git Blame
 - [ ] Best Practices for Commit Messages
 - [ ] Working with Branches
