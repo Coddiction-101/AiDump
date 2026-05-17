@@ -5,3 +5,4 @@
 - [ ] Installing Git
 - [ ] Setting up Git
 - [ ] Basic Git Commands
+- [ ] Tracking Changes
