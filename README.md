@@ -15,7 +15,7 @@
 - [ ] Removing Files from VCS
   - [x] git rm <File_Path>
 - [x] Understanding Commits
-  - [ ] Committing Files
+  - [x] Committing Files
   - [x] git commit -m "Initial Commit"
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
