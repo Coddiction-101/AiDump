@@ -18,7 +18,7 @@
   - [x] git commit -m "Initial Commit"
 - [x] Staging area
 - [x] Logging Commit History
-  - [ ] git log
+  - [x] git log
   - [ ] git log --oneline
 - [x] Using Git Blame
 - [ ] Best Practices for Commit Messages
