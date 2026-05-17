@@ -7,6 +7,8 @@
 - [x] Basic Git Commands
    - [x]  Setting Up Git Global Configuration
 - [x] Initialising Git Project
+- [x] Adding Files to VCS
+   - [x]  Setting Up Git Global Configuration
 - [x] Tracking Changes
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
