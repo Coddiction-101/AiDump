@@ -6,3 +6,4 @@
 - [ ] Setting up Git
 - [ ] Basic Git Commands
 - [ ] Tracking Changes
+- [ ] Understanding Commits
