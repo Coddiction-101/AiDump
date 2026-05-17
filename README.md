@@ -12,6 +12,7 @@
   - [x] git add .
   
 - [x] Tracking Changes
+- [ ] Removing Files from VCS
 - [ ] Understanding Commits
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
