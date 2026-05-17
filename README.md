@@ -4,3 +4,4 @@
 - [ ] Overview of Git
 - [ ] Installing Git
 - [ ] Setting up Git
+- [ ] Basic Git Commands
