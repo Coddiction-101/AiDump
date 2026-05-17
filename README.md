@@ -21,7 +21,7 @@
   - [x] git log
   - [x] git log --oneline
 - [x] Using Git Blame
-- [ ] Reverting Back
+- [x] Reverting Back
  
 
 
