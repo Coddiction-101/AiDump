@@ -15,6 +15,7 @@
 - [ ] Removing Files from VCS
   - [x] git rm <File_Path>
 - [ ] Understanding Commits
+  - [ ] Committing Files
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
 - [ ] Best Practices for Commit Messages
