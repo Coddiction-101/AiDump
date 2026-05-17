@@ -13,6 +13,9 @@
 - [ ] Working with Branches
 - [ ] Stashing Changes
 - [ ] Managing Remote Repositories (GitHub)
+- [ ] Advanced Git Features
+
+
 
 
 
