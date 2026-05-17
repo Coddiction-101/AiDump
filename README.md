@@ -16,7 +16,7 @@
 - [x] Understanding Commits
   - [x] Committing Files
   - [x] git commit -m "Initial Commit"
-- [ ] Staging area
+- [x] Staging area
 - [ ] Viewing Commit History
 - [ ] Using Git Blame
 - [ ] Best Practices for Commit Messages
