@@ -9,7 +9,7 @@
 - [x] Initialising Git Project
 - [x] Adding Files to VCS
   - [x] git add <File_Path>
-  - [x] git add .
+  - [x] git add dot /  (.)
 - [x] Tracking Changes
 - [x] Removing Files from VCS
   - [x] git rm <File_Path>
